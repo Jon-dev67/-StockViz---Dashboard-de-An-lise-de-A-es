@@ -68,7 +68,7 @@ Como Usar
 
 1. Clone o repositório:
 
-git clone https://github.com/seu_usuario/projeto-analise-financeira.git
+git clone https://github.com/Jon-dev67/StockViz.git
 cd projeto-analise-financeira
 
 2. Instale as dependências:
